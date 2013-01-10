@@ -1,0 +1,5 @@
+<div>
+  Build step that waits (blocking) for callback.
+  Can be used to delegate part of the build to an external service, that will callback
+  jenkins to notify on completion.
+</div>
